@@ -1,0 +1,2 @@
+myclass2 test
+line2
