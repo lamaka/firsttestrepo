@@ -1,2 +1,0 @@
-check if ignore this file
-add new line to ignored file
